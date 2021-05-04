@@ -13,31 +13,78 @@ int main()
 	ofstream file("danh_sach_goi_san_pham.txt", ios::out);
 	file << congty;
 	file.close();
+	system("Pause");
 
 }
 
 /*
-1
-1
+3
 Goi001
 1
 2
 2
 1
 TP001
-keo mem lala
+keomemlala
 500
 100
 1
 TP002
-banh toto
+banhtoto
 500
 150
 1
 1
 2
 R001
-ruou vang zozo
+ruouvangzozo
 4
 1000
+500
+Goi002
+1
+2
+2
+1
+TP001
+keomemlala
+500
+100
+1
+TP002
+banhtoto
+500
+150
+1
+1
+2
+R001
+ruouvangzozo
+4
+1000
+500
+Goi003
+1
+2
+2
+1
+TP001
+keomemlala
+500
+100
+1
+TP002
+banhtoto
+500
+150
+1
+1
+2
+R001
+ruouvangzozo
+4
+1000
+500
+
+
 */

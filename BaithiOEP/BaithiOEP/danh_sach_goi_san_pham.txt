@@ -1,4 +1,12 @@
-Goi san pham:<goi00q><984000><1><2>
-Do uong 1:<iy><><uty><><600><5000><6000>
-Do uong 2:<nbm><><fh><BLACK><600><600000><900000>
-Thuc pham 1:<hfd><><kjh><BLUE><60><65000><78000>
+Goi san pham:<Goi001><1060><2><1>
+Do uong 1:<R001><><ruouvangzozo><BLACK><1000><500><750>
+Thuc pham 1:<TP001><><keomemlala><RED><500><100><130>
+Thuc pham 2:<TP002><><banhtoto><BLUE><500><150><180>
+Goi san pham:<Goi002><1060><2><1>
+Do uong 1:<R001><><ruouvangzozo><BLACK><1000><500><750>
+Thuc pham 1:<TP001><><keomemlala><RED><500><100><130>
+Thuc pham 2:<TP002><><banhtoto><BLUE><500><150><180>
+Goi san pham:<Goi003><1060><2><1>
+Do uong 1:<R001><><ruouvangzozo><BLACK><1000><500><750>
+Thuc pham 1:<TP001><><keomemlala><RED><500><100><130>
+Thuc pham 2:<TP002><><banhtoto><BLUE><500><150><180>

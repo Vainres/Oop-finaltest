@@ -1,20 +1,2 @@
 ﻿  BaithiOEP.cpp
-  Banh.cpp
-  Congty.cpp
-  Douong.cpp
-  Goi.cpp
-  Goichuan.cpp
-  Goidacbiet.cpp
-E:\Downloads\BaithiOEP (3)\BaithiOEP\BaithiOEP\Banh.cpp(12,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Keo.cpp
-E:\Downloads\BaithiOEP (3)\BaithiOEP\BaithiOEP\Goidacbiet.cpp(45,21): warning C4305: '*=': truncation from 'double' to 'float'
-E:\Downloads\BaithiOEP (3)\BaithiOEP\BaithiOEP\Keo.cpp(17,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Nuocgiaikhat.cpp
-E:\Downloads\BaithiOEP (3)\BaithiOEP\BaithiOEP\Keo.cpp(18,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-E:\Downloads\BaithiOEP (3)\BaithiOEP\BaithiOEP\Nuocgiaikhat.cpp(14,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Ruou.cpp
-E:\Downloads\BaithiOEP (3)\BaithiOEP\BaithiOEP\Nuocgiaikhat.cpp(15,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Thucpham.cpp
-  Generating Code...
-E:\Downloads\BaithiOEP (3)\BaithiOEP\BaithiOEP\Ruou.cpp(21,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  BaithiOEP.vcxproj -> E:\Downloads\BaithiOEP (3)\BaithiOEP\x64\Debug\BaithiOEP.exe
+  BaithiOEP.vcxproj -> C:\Users\nhan6\source\repos\OOP\Oop-finaltest\BaithiOEP\x64\Debug\BaithiOEP.exe
